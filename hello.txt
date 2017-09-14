@@ -2,7 +2,10 @@ Hello! Is it me you're looking for?
 
 Jenny i got your number.\
 
-pizza | ice cream
------------- | -------------
-Cheese pizza | Chocolate Ice Cream
-Pizza with cheese on it | Ice cream mixed with chocolate flavoring
+
+
+| pizza | ice cream |
+| ------------ | -------------|
+| Cheese pizza | Chocolate Ice Cream
+ |
+| Pizza with cheese on it | Ice cream mixed with chocolate flavoring |
